@@ -16,3 +16,6 @@ Personal development log — notes, findings, and ongoing work.
 - Resolved TODO items from previous session
 - Updated CI cache strategy
 - Bumped patch version
+
+## 2026-04-22
+- Improved log message formatting
