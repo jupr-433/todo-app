@@ -24,3 +24,7 @@ Personal development log — notes, findings, and ongoing work.
 - Drafted initial implementation plan for v2
 - Tidied up project structure
 - Improved log message formatting
+
+## 2026-04-22
+- Consolidated duplicate helper functions
+- Added CONTRIBUTING.md stub
